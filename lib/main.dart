@@ -32,7 +32,7 @@ class HomeScreen extends StatelessWidget {
       child: FloatingActionButton(
         child: const Icon(Icons.thumb_up),
         onPressed: () {
-          print("Sanika is Testing");
+          print("Text for testing ");
         },
         backgroundColor: Colors.green,
 
